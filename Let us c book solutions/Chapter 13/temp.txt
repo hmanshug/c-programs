@@ -1,0 +1,5 @@
+1
+a
+mmmmmmmmmmmmmmmm
+->>>> gcc filename.c xxx.exe
+->>>> xxx arg1 arg2 so on
