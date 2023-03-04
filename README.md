@@ -1,2 +1,2 @@
 # c-programs
-My all c language solutions
+Let us C book & Nptel course solutions
